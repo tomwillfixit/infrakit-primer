@@ -1,6 +1,6 @@
 # InfraKit primer
 
-InfraKit was announced at this weeks Linux Conf in Berlin.  The announcement blog can be found [here](https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure).
+InfraKit was announced at this weeks LinuxCon in Berlin.  The announcement blog can be found [here](https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure).
 
 The following primer will use InfraKit plugins to create and maintain a simple vagrant VM based infrastructure.  You will need virtualbox and vagrant installed.
 
